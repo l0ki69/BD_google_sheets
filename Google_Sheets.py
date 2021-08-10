@@ -1,7 +1,7 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
-file_path = r"D:\project\BD_ODBC_laba"
+file_path = r""
 
 
 class Google_Sheets:
